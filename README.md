@@ -31,3 +31,7 @@ Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di at
 ![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss1.PNG)
 
 ![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss2.PNG)
+
+# Pemakaian Alert sebagai property window
+
+
