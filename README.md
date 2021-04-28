@@ -1,11 +1,11 @@
-                                                             Nama : Devi Novitasari
-                                                             Kelas: TI.19.A1
-                                                             NIM  : 311910050
+                                                           Nama : Devi Novitasari
+                                                           Kelas: TI.19.A1
+                                                           NIM  : 311910050
 
 
 
 # lab5
-                                                              Praktikum 5: Javascript
+                                                           Praktikum 5: Javascript
                                                                
                                                                
      
@@ -54,9 +54,39 @@ Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di at
 
 #Pembuatan fungsi dan cara pemanggilannya
 
-![alt text]
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/cod%20pembuatan%20fungsi%20dan%20cara.PNG)
 
-![alt text]
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20pembuatan%20fungsi%20dan%20cara.PNG)
+
+# Operasi dasar Aritmatika
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20cod%20operasi%20dasar%20aritmatika.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/aritmatika%201.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/aritmatika%202.PNG)
+
+# Seleksi Kondisi (if else)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20cod%20seleksi%20kondisi%20if%20else.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/seleksi%20kondisi%20if%20else%201.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/seleksi%20kondisi%20if%20else%202.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/seleksi%20kondisi%20if%20else%203.PNG)
+
+# Penggunaan operator Switch untuk seleksi
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20cod%20operator%20switch.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/operator%20switch%201.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/operator%20switch%202.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/operator%20switch%203.PNG)
+
+
 
 
 
