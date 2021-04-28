@@ -86,6 +86,39 @@ Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di at
 
 ![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/operator%20switch%203.PNG)
 
+# Form Input
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20cod%20forum%20input.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/form%20input.PNG)
+
+# Form Button
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20cod%20form%20button.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/form%20button%201.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/form%20button%202.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/form%20button%203.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/form%20button%204.PNG)
+
+# Cara membuat daftar Menu
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20cod%20daftar%20menu.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/daftar%20menu.PNG)
+
+# Pertanyaan dan Tugas
+
+# 1. Buat script untuk melakukan validasi pada isian form
+Persiapan membuat dokumen HTML terlebih dahulu dan dilanjut menambahkan kode seperti di bawah ini.
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20cod%20validasi.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/validasi.PNG)
+
 
 
 
