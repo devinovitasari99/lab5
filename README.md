@@ -52,7 +52,7 @@ Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di at
 
 ![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/prompt%203.PNG)
 
-#Pembuatan fungsi dan cara pemanggilannya
+# Pembuatan fungsi dan cara pemanggilannya
 
 ![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/cod%20pembuatan%20fungsi%20dan%20cara.PNG)
 
