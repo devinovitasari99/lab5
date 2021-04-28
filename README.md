@@ -26,7 +26,8 @@ Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di at
 • Dapat Menampilkan Elemen HTML
 
 
-#
-Membuat pengenalan javascript
+# Membuat pengenalan javascript
+
 ![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss1.PNG)
+
 ![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss2.PNG)
