@@ -34,4 +34,30 @@ Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di at
 
 # Pemakaian Alert sebagai property window
 
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20alert%20codingan.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20alert.PNG)
+
+# Pemakaian method dalam objek
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/pemakaian%20method%20cod.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/pemakaian%20method.PNG)
+
+# Pemakaian Prompt
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/ss%20cod%20pemakaian%20prompt.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/prompt%201.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/prompt%202.PNG)
+
+![alt text](https://github.com/devinovitasari99/lab5/blob/main/Screenshoot/prompt%203.PNG)
+
+#Pembuatan fungsi dan cara pemanggilannya
+
+![alt text]
+
+![alt text]
+
+
+
 
